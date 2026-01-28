@@ -9,6 +9,7 @@ This document outlines the structure, design, and features of the Study Room Hom
 - **NPM Initialization**: A `package.json` file has been created.
 - **Firebase Integration**: Confirmed that `.idx/mcp.json` contains the necessary Firebase server configuration.
 - **Code Organization**: JavaScript functions have been moved from `index.html` to a separate `script.js` file for better maintainability.
+- **Formspree Integration**: Added a "Partnership & Proposal Inquiry" form using Formspree to the Help section of `index.html`.
 
 ## Plan for Current Requested Change
-No specific change has been requested yet. The current tasks involved setting up the development environment and improving code organization.
+No specific change has been requested yet. The current tasks involved adding the Formspree form and updating documentation.
